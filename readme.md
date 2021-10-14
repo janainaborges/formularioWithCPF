@@ -1,3 +1,3 @@
 *Formulário com válidador de CPF*
 ==
-- Usando metodo 'static'
+- Usando método 'static'
